@@ -1,0 +1,8 @@
+"Gamemode"
+{
+	"base"			"nutscript"
+	"title"			"New Vegas"
+	"author"		"Barata"
+	"menusystem"	"1"
+	"maps"			"^rp_"
+}

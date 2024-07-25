@@ -1,0 +1,10 @@
+--ITEM.name = "Lightweight Leather Armor"
+--ITEM.category = "Clothing"
+--ITEM.data = {
+--	Equipped = false
+--}
+--ITEM.ClothesTable = {
+--	model = "models/thespireroleplay/humans/group055/",
+--	Type = "Suit"
+--}
+--ITEM.CarryWeight = 15
